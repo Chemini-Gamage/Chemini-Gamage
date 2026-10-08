@@ -12,7 +12,7 @@
 
 ### 🪐 About Me
 
-- 🎓 3rd year undergraduate specializing in **Data Science** at **SLIIT**
+- 🎓 Fresh graduate specializing in **Data Science** at **SLIIT**
 - ☁️ Working across **AWS**, **Microsoft Azure**, and **Google Cloud Platform**
 - 🎯 Pursuing roles in **Data Science**, **Data Engineering**, and **Data Analytics**
 - 🧱 Building pipelines, warehouses, and dashboards with **Snowflake, Airflow, Power BI & Tableau**
